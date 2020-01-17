@@ -7,3 +7,7 @@
 .DS_Store
 .settings/**
 stanford-corenlp.jar
+/bin/
+/target/
+.classpath
+.project
